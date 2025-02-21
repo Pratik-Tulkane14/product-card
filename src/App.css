@@ -11,7 +11,7 @@ body {
   border-radius: 10px;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 97vh;
 }
 .card {
   display: flex;
@@ -32,7 +32,6 @@ body {
   height: 100%;
   width: 100%;
   display: block;
-  object-fit: cover;
   border-radius: 10px 0 0 10px ;
 }
 .right-section {
@@ -75,8 +74,19 @@ body {
   font-size: 1.5rem;
   color: #3c8067;
 }
-
+.footer{
+  display: flex;
+  justify-content: center;
+  color: gray;
+}
+.link{
+  color: gray;
+  margin: 0  0.3rem;
+}
 @media (max-width:600px){
+  .main{
+    margin-top: 7rem;
+  }
   .card{
     flex-direction: column;
     width: 80vw;
