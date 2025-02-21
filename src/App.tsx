@@ -8,7 +8,7 @@ function App() {
 
         <div className="card">
           <div className="left-section">
-            <img src={perfume} className='perfume-img' alt="perfume-bottle" />
+            <img src={perfume} className='perfume-img' alt="A bottle of perfume surrounded by foliage" />
           </div>
           <div className="right-section">
             <h1 className='category'>Perfume</h1>
@@ -32,9 +32,9 @@ function App() {
         </div>
       </div>
       <footer className='footer'>
-        Challange by <a href='https://www.crio.do' className='link'> crio</a> Created by 
+        Challange by <a href='https://www.crio.do' className='link'> crio</a> Created by
         <a href="https://github.com/Pratik-Tulkane14" className='link'>
-           Pratik
+          Pratik
         </a>
       </footer>
     </>
