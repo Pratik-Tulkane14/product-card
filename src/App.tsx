@@ -8,7 +8,7 @@ function App() {
 
         <div className="card">
           <div className="left-section">
-            <img src={perfume} className='perfume-img' alt="A bottle of perfume surrounded by foliage" />
+            <img src={perfume} className='perfume-img' alt="A bottle of perfume surrounded by foliage." />
           </div>
           <div className="right-section">
             <h1 className='category'>Perfume</h1>
