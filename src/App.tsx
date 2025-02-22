@@ -1,5 +1,6 @@
 import './App.css'
 import perfume from "/perfume.png"
+import { IoMdCart } from "react-icons/io";
 function App() {
 
   return (
@@ -27,15 +28,19 @@ function App() {
               </div>
 
             </div>
-            <button className='card-btn'>Add to Cart</button>
+            <button className='card-btn'> 
+              <IoMdCart  className='icons'/>
+              Add to Cart</button>
           </div>
         </div>
       </div>
       <footer className='footer'>
+        <div className="attribution">
         Challange by <a href='https://www.crio.do' className='link'> crio</a> Created by
         <a href="https://github.com/Pratik-Tulkane14" className='link'>
           Pratik
         </a>
+        </div>
       </footer>
     </>
   )
