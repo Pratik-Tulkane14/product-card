@@ -14,8 +14,8 @@ function App() {
           <div className="right-section">
             <h2 className='category'>Perfume</h2>
             <h1 className='title'>Gabrielle Essence Eau De Parfum</h1>
-            <div className="">
-              <p className='product-desc p'>A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.</p>
+            <div className="product-desc">
+              <p>A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.</p>
             </div>
             <div className="price-wrapper">
               <div className="">
