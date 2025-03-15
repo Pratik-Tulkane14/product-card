@@ -12,10 +12,10 @@ function App() {
             <img src={perfume} className='perfume-img' alt="A bottle of perfume surrounded by foliage" />
           </div>
           <div className="right-section">
-            <h1 className='category'>Perfume</h1>
+            <h2 className='category'>Perfume</h2>
             <h1 className='title'>Gabrielle Essence Eau De Parfum</h1>
-            <div className="product-desc">
-              <p>
+            <div className="">
+              <p className='product-desc'>
                 A floral, solar, and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.
               </p>
             </div>
