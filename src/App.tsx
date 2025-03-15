@@ -16,7 +16,7 @@ function App() {
             <h1 className='title'>Gabrielle Essence Eau De Parfum</h1>
             <div className="">
               <p className='product-desc'>
-                "A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL."</p>
+                A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.</p>
             </div>
             <div className="price-wrapper">
               <div className="">
